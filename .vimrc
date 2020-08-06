@@ -22,3 +22,4 @@ colorscheme molokai
 
 filetype on     "启动文件类型检查
 filetype plugin on  "运行vim加载文件类型插件
+
